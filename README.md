@@ -1,1 +1,5 @@
-# Youtube-Video-Downloader
+## Usage
+
+pip install pytube
+
+pytube YoutubeDownloader.py
